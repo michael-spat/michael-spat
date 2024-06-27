@@ -1,6 +1,6 @@
-# Hi there 👋
-# My name is Mikhail Patrakeev 🤝
-# Data Analyst from Saint Petersburg ⛲️
+## Hi there 👋
+## My name is Mikhail Patrakeev 🤝
+## Data Analyst from Saint Petersburg ⛲️
 
 👨‍💻 **IDEs**:
 - Jupyter Notebook
