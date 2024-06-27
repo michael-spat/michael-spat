@@ -2,6 +2,7 @@
 ## My name is Mikhail Patrakeev 🤝
 ## Data Analyst from Saint Petersburg ⛲️
 
+## My tech stack:
 👨‍💻 **IDEs**:
 - Jupyter Notebook
 - Collab
