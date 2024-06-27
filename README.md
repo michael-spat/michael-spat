@@ -7,13 +7,21 @@ Experienced IT professional with over 15 years of expertise in Information Techn
 
 
 🛢️ **Databases**:  
-PostgreSQL, DBeaver
+- PostgreSQL
+- DBeaver
 
 👨‍💻 **Data Analytics**:  
-Python (pandas, NumPy, Matplotlib, SciPy, Seaborn, Plotly, folium)
+- Python
+- pandas
+- NumPy
+- SciPy
+- Matplotlib
+- Seaborn
+- Plotly
+- folium
 
 📈 **BI-systems**:  
-Tableau
+- Tableau
 
 
 <!--
