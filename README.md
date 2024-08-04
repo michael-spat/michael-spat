@@ -9,7 +9,6 @@
 
 🛢️ **Databases**:  
 - PostgreSQL
-- DBeaver
 
 🐍 **Data Analytics**:  
 - Python
